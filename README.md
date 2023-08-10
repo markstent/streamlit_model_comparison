@@ -13,8 +13,8 @@ This project provides a Streamlit-based web app to compare the training and pred
 
 1. **Clone the Repository**:
     ```bash
-    git clone [YOUR REPOSITORY LINK]
-    cd [YOUR REPOSITORY NAME]
+    git clone https://github.com/markstent/streamlit_model_comparison
+    cd streamlit_model_comparison
     ```
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**:
@@ -30,7 +30,7 @@ This project provides a Streamlit-based web app to compare the training and pred
 
 4. **Run the Streamlit App**:
     ```bash
-    streamlit run [YOUR SCRIPT NAME].py
+    streamlit run streamlit_model_comparison.py
     ```
 
 ## Data
