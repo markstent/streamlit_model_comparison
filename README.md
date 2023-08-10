@@ -3,6 +3,8 @@
 
 This project provides a Streamlit-based web app to compare the training and prediction performance of three machine learning models: Logistic Regression, XGBoost, and a Neural Network (implemented with PyTorch). The app allows users to select a sample size, train all models on this sample, and then evaluate their accuracy and prediction time on unseen data.
 
+View the app: https://modelcomparison.streamlit.app/
+
 ## Features
 
 1. **Data Sample Selection**: Choose the size of the data sample to be used for training.
