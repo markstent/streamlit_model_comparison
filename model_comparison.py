@@ -217,6 +217,7 @@ def main():
         # Create a dictionary to hold the results
         results = {
             "Model": ["Logistic Regression", "XGBoost", "Neural Network"],
+            "Training Time (s)": [st.session_state.lr_training_time, st.session_state.xgb_training_time, st.session_state.nn_training_time],
             "Accuracy (%)": [lr_accuracy*100, xgb_accuracy*100, nn_accuracy*100],
             "Prediction Time (s)": [lr_prediction_time, xgb_prediction_time, nn_prediction_time]
         }
