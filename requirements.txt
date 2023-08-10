@@ -1,9 +1,6 @@
-denoising-diffusion-pytorch==1.4.4
-ema-pytorch==0.2.1
 pandas==1.4.4
 pytorch-fid==0.3.0
 sklearn==0.0.post5
 streamlit==1.21.0
 torch==1.12.1
-torchaudio==0.12.1
-torchvision==0.13.1
+
