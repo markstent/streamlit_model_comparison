@@ -1,6 +1,6 @@
 pandas==1.4.4
 pytorch-fid==0.3.0
-sklearn==0.0.post5
+scikit-learn==0.24.2
 streamlit==1.21.0
 torch==1.12.1
 
