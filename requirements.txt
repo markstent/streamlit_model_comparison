@@ -3,4 +3,5 @@ pytorch-fid==0.3.0
 scikit-learn==0.24.2
 streamlit==1.21.0
 torch==1.12.1
+xgboost==1.7.6
 
